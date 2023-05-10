@@ -1,10 +1,10 @@
 ### Olá Mundo, me chamo Paulo Victor 👋
 
-<div>
+<!-- <div>
   <a href="https://github.com/paulovictor11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovictor11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictor11&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Paulo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
